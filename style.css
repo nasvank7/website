@@ -1,0 +1,620 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+     width: 100%;
+     height: 100%;
+     color: white;
+     background: white;
+     overflow-x: hidden;
+}
+.main{
+    width: 100%;
+    min-height: 100px;
+    background: #E8326A;
+}
+.container img{
+    width: 215px;
+    height: 209px;
+    padding-left: 657px;
+    position: absolute;
+    top: 5px;
+    text-align: center;
+    size-adjust: 100px;
+}
+.fruit img{
+    position: absolute;
+    right: 191px;
+    font-style: Raleway, sans-serif;
+    top: 34px;
+    font-size: 18px;
+    width: 191px;
+    cursor: pointer;
+}
+.banner{
+    width:100%;
+    height: 700px;
+
+
+}
+.banner h2{
+    color: #F33177;
+    font-size: 60px;
+    font-weight: 500;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    top: 467px; 
+    right: 308px; 
+}   
+.banner2{
+ height: 100px;
+
+background-size: cover;
+padding: 55px 0
+}
+.imgapple{
+    vertical-align: middle;
+    border: none;
+    position: absolute;
+    top: 996px;
+    width: 227px;
+    height: 229px;
+    left: 244px;
+
+}
+.container1 h5{
+font-size: 120px;
+font-family: 'Raleway', sans-serif;
+font-weight: 900;
+text-transform: uppercase;
+color: #FFD7D3;
+letter-spacing: 0;
+line-height: .7;
+position: absolute;
+top: 978px;
+left: 480px;
+}
+.container1 h1{
+    font-size: 84px;
+    position: absolute;
+    top: 1086px;
+    left: 500px;
+    color: #FFD7D3;
+}
+.container1 h6{
+    position: absolute;
+    top: 1278px; 
+    left: 500px;
+    font-size: 24px;
+}
+.container1 p{
+    position: absolute;
+    top: 1325px; 
+    left: 282px;
+    font-size: 18px;
+    font-family: 'Oxygen', sans-serif;
+    word-spacing: 2px;
+
+}
+.container2{
+    width: 100%;
+    height: 2000px;
+    background: white;
+}
+.one{
+    
+        position: absolute;
+        width: 297px;
+        height: 293px;
+        border: 1px solid grey;
+        bottom: -1827px;
+        color: black;
+        left: 244px;
+        top: 2000px;
+    
+}
+.one img{
+    position: absolute;
+    background-color: #E8326A;
+    border-radius: 59%;
+    width: 68px;
+    height: 64px;
+    left: 111px;
+    top: -32px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.one h1{
+    position: absolute;
+    text-align: center;
+    left: 52px;
+    font-family: Oxygen, sans-serif;
+    font-size: 22px;
+    line-height: 30.4px;
+    top: 49px;
+}
+.one p{
+    position: absolute;
+    top: 104px;
+    left: 54px;
+    text-align: center;
+    font-family: Oxygen, sans-serif;
+    font-size: 16px;
+}
+.one a{
+    background: #E0E0E0;
+    color: #363636;
+    font-size: 23px;
+    display: inline-block;
+    min-width: 200px;
+    height: 30px;
+    border-radius: 40px;
+    padding: 7px 0;
+    text-decoration: none;
+    margin-top: 205px;
+    text-align: center;
+    position: absolute;
+    left: 51px;
+}
+
+.two{
+    
+        position: absolute;
+        width: 297px;
+        height: 293px;
+        border: 1px solid grey;
+        bottom: -1827px;
+        color: black;
+        left: 622px;
+        top: 2000px;
+    
+}
+.two img{
+    position: absolute;
+    background-color: #E8326A;
+    border-radius: 59%;
+    width: 68px;
+    height: 64px;
+    left: 111px;
+    top: -32px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.two h1{
+    position: absolute;
+    text-align: center;
+    left: 30px;
+    font-family: Oxygen, sans-serif;
+    font-size: 21px;
+    line-height: 30.4px;
+    top: 49px;
+}
+.two p{
+    position: absolute;
+    top: 104px;
+    left: 36px;
+    text-align: center;
+    font-family: Oxygen, sans-serif;
+    font-size: 16px;
+}
+.two a{
+    background: #E0E0E0;
+    color: #363636;
+    font-size: 23px;
+    display: inline-block;
+    min-width: 200px;
+    height: 30px;
+    border-radius: 40px;
+    padding: 7px 0;
+    text-decoration: none;
+    margin-top: 205px;
+    text-align: center;
+    position: absolute;
+    left: 51px;
+}
+
+
+.three{
+    
+        position: absolute;
+        width: 297px;
+        height: 293px;
+        border: 1px solid grey;
+        bottom: -1827px;
+        color: black;
+        left: 1005px;
+        top: 2000px;
+    
+}
+.three img{
+    position: absolute;
+    background-color: #E8326A;
+    border-radius: 59%;
+    width: 68px;
+    height: 64px;
+    left: 111px;
+    top: -32px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.three h1{
+    position: absolute;
+    text-align: center;
+    left: 48px;
+    font-family: Oxygen, sans-serif;
+    font-size: 21px;
+    line-height: 30.4px;
+    top: 49px;
+}
+.three p{
+    position: absolute;
+    top: 104px;
+    left: 29px;
+    text-align: center;
+    font-family: Oxygen, sans-serif;
+    font-size: 16px;
+}
+.three a{
+    background: #E0E0E0;
+    color: #363636;
+    font-size: 23px;
+    display: inline-block;
+    min-width: 200px;
+    height: 30px;
+    border-radius: 40px;
+    padding: 7px 0;
+    text-decoration: none;
+    margin-top: 205px;
+    text-align: center;
+    position: absolute;
+    left: 51px;
+}
+.four{
+    
+    position: absolute;
+    width: 297px;
+    height: 293px;
+    border: 1px solid grey;
+    bottom: -1827px;
+    color: black;
+    left: 244px;
+    top: 2400px;
+
+}
+.four img{
+position: absolute;
+background-color: #E8326A;
+border-radius: 59%;
+width: 68px;
+height: 64px;
+left: 111px;
+top: -32px;
+vertical-align: middle;
+cursor: pointer;
+}
+.four h1{
+position: absolute;
+text-align: center;
+left: 52px;
+font-family: Oxygen, sans-serif;
+font-size: 22px;
+line-height: 30.4px;
+top: 49px;
+}
+.four p{
+position: absolute;
+top: 104px;
+left: 20px;
+text-align: center;
+font-family: Oxygen, sans-serif;
+font-size: 16px;
+}
+.four a{
+background: #E0E0E0;
+color: #363636;
+font-size: 23px;
+display: inline-block;
+min-width: 200px;
+height: 30px;
+border-radius: 40px;
+padding: 7px 0;
+text-decoration: none;
+margin-top: 205px;
+text-align: center;
+position: absolute;
+left: 51px;
+}
+.five{
+    
+    position: absolute;
+    width: 297px;
+    height: 293px;
+    border: 1px solid grey;
+    bottom: -1827px;
+    color: black;
+    left: 624px;
+    top: 2400px;
+
+}
+.five img{
+position: absolute;
+background-color: #E8326A;
+border-radius: 59%;
+width: 68px;
+height: 64px;
+left: 111px;
+top: -32px;
+vertical-align: middle;
+cursor: pointer;
+}
+.five h1{
+position: absolute;
+text-align: center;
+left: 52px;
+font-family: Oxygen, sans-serif;
+font-size: 22px;
+line-height: 30.4px;
+top: 49px;
+}
+.five p{
+position: absolute;
+top: 104px;
+left: 54px;
+text-align: center;
+font-family: Oxygen, sans-serif;
+font-size: 16px;
+}
+.five a{
+background: #E0E0E0;
+color: #363636;
+font-size: 23px;
+display: inline-block;
+min-width: 200px;
+height: 30px;
+border-radius: 40px;
+padding: 7px 0;
+text-decoration: none;
+margin-top: 205px;
+text-align: center;
+position: absolute;
+left: 51px;
+}
+.six{
+    
+    position: absolute;
+    width: 297px;
+    height: 293px;
+    border: 1px solid grey;
+    bottom: -1827px;
+    color: black;
+    left: 1006px;
+    top: 2400px;
+
+}
+.six img{
+position: absolute;
+background-color: #E8326A;
+border-radius: 59%;
+width: 68px;
+height: 64px;
+left: 111px;
+top: -32px;
+vertical-align: middle;
+cursor: pointer;
+}
+.six h1{
+position: absolute;
+text-align: center;
+left: 52px;
+font-family: Oxygen, sans-serif;
+font-size: 22px;
+line-height: 30.4px;
+top: 49px;
+}
+.six p{
+position: absolute;
+top: 104px;
+left: 78px;
+text-align: center;
+font-family: Oxygen, sans-serif;
+font-size: 16px;
+}
+.six a{
+background: #E0E0E0;
+color: #363636;
+font-size: 23px;
+display: inline-block;
+min-width: 200px;
+height: 30px;
+border-radius: 40px;
+padding: 7px 0;
+text-decoration: none;
+margin-top: 205px;
+text-align: center;
+position: absolute;
+left: 51px;
+}
+.outlet h1{
+    font-family:Raleway, sans-serif ;
+    font-size: 39px;
+    line-height: 38.4px;
+    position: absolute;
+    top: 1842px;
+    left: 645px;
+    color: black;
+}
+.container3{
+    background: #F54A39;
+    width: 100%;
+    height: 850px;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+.franchise-enquiry label {
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    position: absolute;
+    left: 206px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    margin-top: 29px;
+    
+}
+.franchise-form {
+    width: 25%;
+    border: 1px solid #fff;
+    background: none;
+    height: 33px;
+    border-radius: 5px;
+    margin-bottom: -13px;
+    outline: none;
+    padding-left: 357px;
+    color: #fff;
+    margin-top: 60px;
+    margin-left: 199px;
+}
+.franchise-form text {
+    width: 100%;
+    border: 1px solid #fff;
+    background: none;
+    height: 120px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    outline: none;
+    padding-left: 5px;
+    color: #fff;
+}
+.franchise-enquiry h2{
+    margin-left: 199px;
+    font-family: Raleway, sans-serif;
+    font-size: 40px;
+    line-height: 48px;
+    color: #ffd7d3;
+    font-weight: 475px;
+    margin-top: -231px;
+    font-weight: 100;
+    position: relative;
+    top: 24px;
+    
+    
+}
+.logo img{
+    width: 292px;
+    height: 350px;
+    margin-top: -529px;
+    position: absolute;
+    top: 3321px;
+    margin-left: 972px;
+}
+.para p{
+    width: 70%;
+    font-size: 16px;
+    font-family: Oxygen, sans-serif;
+    font-weight: 400;
+    text-align: justify;
+    margin-left: 876px;
+    margin-top: -201px;
+}
+.para{
+    margin-left: 100px;
+}
+.butto button{
+    width: 187px;
+    height: 47px;
+    background: #F58E0C;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 74px;
+    margin-left: 197px;
+    margin-top: 108px;
+    cursor: pointer;
+    border: none;
+}
+.container4{
+    width: 100%;
+    background: url(http://www.fruitbae.com/images/f-banner.jpg)no-repeat;
+    height: 635px;
+    overflow: hidden;
+    text-align: center;
+    background-size: cover;
+    padding: 66px 0;
+}
+.img1 img{
+    width: 512px;
+    height: 562px;
+    text-align: center;
+    margin-top: 24px;
+}
+.fruitbaes img{
+    
+    height: 50px;
+    text-align: center;
+    position: absolute;
+    margin-top: -113px;
+    left: 629px;
+    top: 3984px;
+}
+.img1 h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 0 23px;
+    letter-spacing: 4px;
+    margin-top: -242px;
+}
+.img1 p{
+    margin-top: 48px;
+    font-size: 21px;
+}
+.container5{
+    width: 100%;
+    height: 400px;
+}
+.sliding img{
+    width: 100%;
+    height: 400px;
+}
+footer{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+
+}
+.footer h2{
+    font-size: 31px;
+    font-weight: 500;
+    color: black;
+    position: absolute;
+    top: 4931px;
+    left: 208px;
+}
+.footer p{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 22px;
+    text-align: justify;
+    color: black;
+    position: absolute;
+    top: 4983px;
+    left: 210px;
+    cursor: pointer;
+}
+.footer h3{
+    font-size: 23px;
+    font-weight: 500;
+    color: black;
+    position: absolute;
+    top: 4817px;
+    left: 628px;
+}
+.footerimg img{
+    vertical-align: middle;
+    border-style: none;
+    position: relative;
+    left: 668px;
+    margin-top: 49px;
+    cursor: pointer;
+}
